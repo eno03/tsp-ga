@@ -1,0 +1,5 @@
+4
+nova varos,60,-120
+sjenica,60,-10
+uzice,80,-25
+beograd,100,-50
